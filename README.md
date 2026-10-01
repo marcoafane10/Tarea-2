@@ -21,3 +21,5 @@ Tarea de libreria
 - Versión < 1 o > vigente: `version invalida`. Rol distinto de los dos perfiles: `rol no reconocido`.
 
 **Pendiente de confirmar con el Socio Formador:** el número de versión vigente (`CURRENT_VERSION = 3` es un valor de prueba; en el proyecto real saldrá de la base de datos SQL).
+
+##Marco Afane y Ever Adalberto Gomez
